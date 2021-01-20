@@ -11,6 +11,9 @@ public class Test {
     
     String r="ram";
     System.out.println(r);
+    
+    String m="arul";
+    System.out.println(m);
 	}
 
 }
