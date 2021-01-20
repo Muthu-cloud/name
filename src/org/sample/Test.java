@@ -6,6 +6,9 @@ public class Test {
     Long l=1234567890l;
     System.out.println(l);
     
+    String s="muthu";
+    System.out.println(s);
+    
 	}
 
 }
