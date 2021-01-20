@@ -9,6 +9,8 @@ public class Test {
     String s="muthu";
     System.out.println(s);
     
+    String r="ram";
+    System.out.println(r);
 	}
 
 }
